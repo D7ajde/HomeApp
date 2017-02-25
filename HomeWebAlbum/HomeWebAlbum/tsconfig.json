@@ -1,0 +1,19 @@
+﻿{
+   "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "removeComments": false,
+        "noImplicitAny": false
+        //"files": [
+        //  "app/", //(equivalent to 'app/**/*.ts')
+        //  "!e2e/", //(equivalent to '!e2e/**/*.ts')
+        //  "!node_modules/",
+        //  "!app/bower_components/",
+        //  "!app/vendor/fooLib/fooLib.ts"
+        //]
+    }
+}
